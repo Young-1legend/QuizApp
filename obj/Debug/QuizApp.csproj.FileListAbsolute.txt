@@ -1,0 +1,11 @@
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.Form1.resources
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\DANQUAH JEFFREY\source\repos\QuizApp\obj\Debug\QuizApp.pdb
